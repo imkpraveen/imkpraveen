@@ -1,3 +1,4 @@
+<html>
 <head>
     <meta property="og:image" content="https://live.staticflickr.com/65535/51966092736_25d6765098_k.jpg" />
     <meta property="og:title" content="GitHub" />
@@ -90,3 +91,4 @@
     <img src="https://komarev.com/ghpvc/?username=PraveenKKS">
 </a>
 <a href="https://github.com/PraveenKKS?tab=followers"><img src="https://img.shields.io/github/followers/PraveenKKS?label=Followers&style=social" alt="GitHub Badge"></a>
+</html>
