@@ -1,3 +1,12 @@
+<head>
+    <meta property="og:image" content="https://live.staticflickr.com/65535/51966092736_25d6765098_k.jpg" />
+    <meta property="og:title" content="GitHub" />
+    <meta property="og:description" content="Praveens's GitHub Page" />
+    <meta property="og:url" content="https://github.com/PraveenKKS" />
+    <!-- other normal head tags still go here,
+         like links to CSS, Javascript, etc -->
+</head>
+
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Praveenkumar</h1>
