@@ -1,9 +1,10 @@
 <html>
 <head>
-    <meta property="og:image" content="https://live.staticflickr.com/65535/51966092736_25d6765098_k.jpg" />
-    <meta property="og:title" content="GitHub" />
-    <meta property="og:description" content="Praveens's GitHub Page" />
-    <meta property="og:url" content="https://github.com/PraveenKKS" />
+    <meta name="image" property="og:image" content="https://live.staticflickr.com/65535/51966092736_25d6765098_k.jpg" />
+    <meta name="title" property="og:title" content="GitHub" />
+    <meta name="description" property="og:description" content="Praveens's GitHub Page" />
+    <meta name="url" property="og:url" content="https://github.com/PraveenKKS" />
+    <meta name="author" content="Praveenkumar">
     <!-- other normal head tags still go here,
          like links to CSS, Javascript, etc -->
 </head>
