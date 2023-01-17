@@ -61,7 +61,7 @@
 <br/>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenkks&&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="praveenkks" /></p>
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=praveenkks&show_icons=true&locale=en&theme=tokyonight" alt="praveenkks" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenkks&show_icons=true&locale=en&theme=tokyonight" alt="praveenkks" /></p>
 
 ## Connect with me:
 <p align="left">
