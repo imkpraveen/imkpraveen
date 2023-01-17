@@ -60,10 +60,8 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenkks&&show_icons=true&locale=en&layout=compact" alt="praveenkks" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenkks&show_icons=true&locale=en" alt="praveenkks" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveenkks" alt="praveenkks" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenkks&&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="praveenkks" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=praveenkks&show_icons=true&locale=en&theme=tokyonight" alt="praveenkks" /></p>
 
 ## Connect with me:
 <p align="left">
