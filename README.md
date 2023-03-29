@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **Azure DevOps.**
 
-- 👨‍💻 Check out my portfolio at [Praveenkumar's Portfolio](https://PraveenKKS.github.io/) 
+- 👨‍💻 Check out my portfolio at [Praveenkumar's Portfolio](https://imkpraveen.github.io/) 
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
