@@ -4,7 +4,7 @@
     <meta name="title" property="og:title" content="GitHub" />
     <meta name="description" property="og:description" content="Praveens's GitHub Page" />
     <meta name="type" property="og:type" content="profile" />
-    <meta name="url" property="og:url" content="https://github.com/PraveenKKS" />
+    <meta name="url" property="og:url" content="https://github.com/imkpraveen" />
     <meta name="author" content="Praveenkumar">
     <!-- other normal head tags still go here,
          like links to CSS, Javascript, etc -->
@@ -51,8 +51,8 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/PraveenKKS/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Praveenkumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenKKS&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/imkpraveen/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Praveenkumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=imkpraveen&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -74,7 +74,7 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=PraveenKKS">
+    <img src="https://komarev.com/ghpvc/?username=imkpraveen">
 </a>
-<a href="https://github.com/PraveenKKS?tab=followers"><img src="https://img.shields.io/github/followers/PraveenKKS?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/imkpraveen?tab=followers"><img src="https://img.shields.io/github/followers/imkpraveen?label=Followers&style=social" alt="GitHub Badge"></a>
 </html>
